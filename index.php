@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exemplo de ChatBot</title>
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="icon/dev.svg" type="image/x-icon">
     <script data-ad-client="ca-pub-5197224382038794" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
